@@ -1,7 +1,7 @@
 # Add timestamps to your favorite episodes
 
 ## Preview
-!('webpage')['_preview/preview.png']
+![webpage](_preview/preview.png)
 ## Usage
 **Add config file**
 ```php
